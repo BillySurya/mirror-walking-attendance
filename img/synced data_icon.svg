@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 8</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0.462437811 129.537562 0.462437811 129.537562 130 0 130"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-Copy-5" transform="translate(-656.000000, -437.000000)">
+            <g id="Group-8" transform="translate(656.000000, 437.000000)">
+                <g id="Group-3">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <path d="M64.7689104,130 C100.539607,130 129.538015,101.002239 129.538015,65.2308955 C129.538015,29.460199 100.539607,0.462437811 64.7689104,0.462437811 C28.9982139,0.462437811 -0.000194029851,29.460199 -0.000194029851,65.2308955 C-0.000194029851,101.002239 28.9982139,130 64.7689104,130" id="Fill-1" fill="#87AD33" mask="url(#mask-2)"></path>
+                </g>
+                <path d="M65,111 C89.8532205,111 110,90.8551632 110,66 C110,41.147427 89.8532205,21 65,21 C40.1467795,21 20,41.147427 20,66 C20,90.8551632 40.1467795,111 65,111 Z" id="Stroke-4" stroke="#FEFEFE" stroke-width="3"></path>
+                <path d="M39,64.5196982 L46.5218611,75.1379524 C50.2486102,80.3985027 57.5959834,81.5785966 62.7974157,77.7513876 L91,57" id="Stroke-6" stroke="#FEFEFE" stroke-width="7.324" stroke-linecap="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>
